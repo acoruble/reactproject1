@@ -1,7 +1,7 @@
 import React, {Component} from 'react';
 import './App.css';
 
-import marked from "marked"
+import marked from 'marked'
 
 import { sampleText } from "./sampleText"
 
